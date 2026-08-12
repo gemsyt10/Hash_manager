@@ -1,6 +1,4 @@
 #include <iostream>
-#include <vector>
-#define DEBUG
 #include "Hash.hpp"
 using namespace std;
 
